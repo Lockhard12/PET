@@ -1,0 +1,17 @@
+*.iml
+build
+.idea
+bin
+gen
+target
+local.properties
+proguard-rules.txt
+proguard-project.txt
+build.xml
+project.properties
+.classpath
+.project
+.gradle
+.DS_Store
+captures
+projectFilesBackup
